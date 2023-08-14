@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Faeidun
-- 👀 I’m interested in Making Films
+- 👋 Hi, I’m Faridun
+- 👀 I’m interested in Nothing
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ?
